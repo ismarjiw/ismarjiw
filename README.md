@@ -28,6 +28,7 @@
 
 <p dir="auto"><a href="https://www.svgrepo.com/show/184143/java.svg"><img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/184143/java.svg" data-canonical-src="https://www.svgrepo.com/show/184143/java.svg" style="max-width: 100%;"></a></p>
 
+<p dir="auto"><a href="https://www.svgrepo.com/show/331300/aws.svg"><img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/331300/aws.svg" data-canonical-src="https://www.svgrepo.com/show/331300/aws.svg" style="max-width: 100%;"></a></p>
 
 <h1></h1>
 
