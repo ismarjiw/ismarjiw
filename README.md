@@ -1,6 +1,6 @@
 <h1> 👾 Ismarji Workman (she/her) </h1>
 <p> <strong> <code> Digital Craftswoman [Software Developer] </code> </strong> </p>
-<p> I am a full-stack developer helping to build a better digital world for tomorrow. </p>
+<p> I am an aspiring full-stack developer helping to build a better digital world for tomorrow. </p>
   
 <hr></hr>
 
