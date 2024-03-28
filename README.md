@@ -42,8 +42,7 @@ href="https://www.svgrepo.com/show/331300/aws.svg"><img align="left" alt="AWS ic
 <summary><h3>👩🏽‍💻 Ismarji's Coding Journey</h3></summary>
    I started my coding journey as a naive Python coder by taking a course on Udemy.com. After starting the course, I began to have a passion to learn 
   as much as I could about programming, ranging from different coding languages to computer science theory. This was all the while I was working full-time
-  as an ophthalmic technician. My desire to further grow my skillset gave me the opportunity to join Hackbright Academy's full-time software
-  engineering bootcamp, sponsored by Walmart. Currently I'm looking for a full-stack software engineer role. To connect and learn more about me, please check out my LinkedIn to the left and under my profile picture. 
+  as an ophthalmic technician and surgery coordinator. Currently I'm looking for a full-stack software engineer role. To connect and learn more about me, please check out my LinkedIn to the left and under my profile picture. 
 </details>
 
 <hr></hr>
