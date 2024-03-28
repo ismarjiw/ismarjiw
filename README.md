@@ -8,7 +8,7 @@
 
 <p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"><img align="left" alt="HTML icon" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" style="max-width: 100%;"></a></p>
 
-<p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png"><img align="left" alt="CSS icon" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" style="max-width: 100%;"></a></p>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png"><img align="left" alt="CSS icon" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" style="max-width: 100%;"></a></p>
 
 <p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"><img align="left" alt="JavaScript icon" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" style="max-width: 100%;"></a></p>
 
@@ -41,8 +41,8 @@ href="https://www.svgrepo.com/show/331300/aws.svg"><img align="left" alt="AWS ic
 <details open>
 <summary><h3>👩🏽‍💻 Ismarji's Coding Journey</h3></summary>
    I started my coding journey as a naive Python coder by taking a course on Udemy.com. After starting the course, I began to have a passion to learn 
-  as much as I could about programming, ranging from different coding languages to computer science theory. This was all the while I was working full-time
-  as an ophthalmic technician and surgery coordinator. Currently I'm looking for a full-stack software engineer role. To connect and learn more about me, please check out my LinkedIn to the left and under my profile picture. 
+  as much as I could about programming, ranging from different coding languages and frameworks to computer science theory. This was all the while I was working full-time
+  as an ophthalmic technician and surgery coordinator. Currently I'm looking for a full-stack software engineer role. To connect and learn more about me, please check out my LinkedIn and portfolio where you can find my resume. 
 </details>
 
 <hr></hr>
