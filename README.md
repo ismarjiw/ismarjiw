@@ -22,7 +22,7 @@ href="https://cdn-icons-png.flaticon.com/512/5968/5968896.png"><img align="left"
 <p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122"><img align="left" alt="Git icon" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" style="max-width: 100%;"></a></p>
 
 <p><a 
-href="https://brandeps.com/logo-download/F/Flask-logo-vector-01.svg"><img align="left" alt="Flask icon" width="30px" src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" style="max-width: 100%;"></a></p>
+href="https://www.svgrepo.com/show/473611/flask.svg"><img align="left" alt="Flask icon" width="30px" src="https://www.svgrepo.com/show/473611/flask.svg" style="max-width: 100%;"></a></p>
 
 <p><a 
 href="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"><img align="left" alt="SQL icon" width="30px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" style="max-width: 100%;"></a></p>
